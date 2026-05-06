@@ -1,0 +1,17 @@
+{
+  "repo": "notion-tool-diff-mark",
+  "thresholds": {
+    "signal": 3,
+    "slack": 1,
+    "confidence": 2,
+    "drag": 2,
+    "ship": 204,
+    "watch": 126
+  },
+  "terms": [
+    "file span",
+    "terminal width",
+    "argument risk",
+    "report density"
+  ]
+}
